@@ -8,4 +8,4 @@ payload distinctBy($.department)map(item,index)->{
 }
 
 
-/*in this by using distinctBy  iand map functions i have Filter department and count as the desired output*/
+/*in this by using distinctBy and map functions i have Filter department and count as the desired output*/
